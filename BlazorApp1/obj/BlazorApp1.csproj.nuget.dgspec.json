@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ruben.birsan\\Source\\Repos\\BlazorPWA\\BlazorApp1\\BlazorApp1.csproj": {}
+    "C:\\Users\\ruben.birsan\\source\\repos\\BlazorPWA\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ruben.birsan\\Source\\Repos\\BlazorPWA\\BlazorApp1\\BlazorApp1.csproj": {
+    "C:\\Users\\ruben.birsan\\source\\repos\\BlazorPWA\\BlazorApp1\\BlazorApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ruben.birsan\\Source\\Repos\\BlazorPWA\\BlazorApp1\\BlazorApp1.csproj",
+        "projectUniqueName": "C:\\Users\\ruben.birsan\\source\\repos\\BlazorPWA\\BlazorApp1\\BlazorApp1.csproj",
         "projectName": "BlazorApp1",
-        "projectPath": "C:\\Users\\ruben.birsan\\Source\\Repos\\BlazorPWA\\BlazorApp1\\BlazorApp1.csproj",
+        "projectPath": "C:\\Users\\ruben.birsan\\source\\repos\\BlazorPWA\\BlazorApp1\\BlazorApp1.csproj",
         "packagesPath": "C:\\Users\\ruben.birsan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ruben.birsan\\Source\\Repos\\BlazorPWA\\BlazorApp1\\obj\\",
+        "outputPath": "C:\\Users\\ruben.birsan\\source\\repos\\BlazorPWA\\BlazorApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
@@ -53,6 +53,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "DevExpress.Xpo": {
+              "target": "Package",
+              "version": "[22.2.3, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly": {
               "target": "Package",
               "version": "[6.0.22, )"

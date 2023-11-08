@@ -24,5 +24,7 @@
     <PkgMicrosoft_NET_Sdk_WebAssembly_Pack Condition=" '$(PkgMicrosoft_NET_Sdk_WebAssembly_Pack)' == '' ">C:\Users\ruben.birsan\.nuget\packages\microsoft.net.sdk.webassembly.pack\8.0.0-rc.2.23479.6</PkgMicrosoft_NET_Sdk_WebAssembly_Pack>
     <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\ruben.birsan\.nuget\packages\microsoft.net.illink.tasks\7.0.100-1.23211.1</PkgMicrosoft_NET_ILLink_Tasks>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer)' == '' ">C:\Users\ruben.birsan\.nuget\packages\microsoft.aspnetcore.components.webassembly.devserver\6.0.22</PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer>
+    <PkgDevExpress_Data Condition=" '$(PkgDevExpress_Data)' == '' ">C:\Users\ruben.birsan\.nuget\packages\devexpress.data\22.2.3</PkgDevExpress_Data>
+    <PkgDevExpress_Xpo Condition=" '$(PkgDevExpress_Xpo)' == '' ">C:\Users\ruben.birsan\.nuget\packages\devexpress.xpo\22.2.3</PkgDevExpress_Xpo>
   </PropertyGroup>
 </Project>
